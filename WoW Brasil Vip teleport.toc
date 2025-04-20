@@ -1,0 +1,5 @@
+## Interface: 40100
+## Title: WoW Brasil Vip teleport
+## Author: Justin
+## Notes: Basta clicar no mapa segurando shift em algum lugar que mostre nome do local ao passar o mouse em cima, ao realizar o teleport o mapa irá fechar automáticamente
+WoW Brasil Vip teleport.lua
